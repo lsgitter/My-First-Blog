@@ -102,6 +102,10 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+SATIC_ROOT= 'leahgitter/projects/learnpython/mysite/static'
+
+
+
 
 
 
