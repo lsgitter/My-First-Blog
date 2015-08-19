@@ -102,7 +102,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-SATIC_ROOT= "/home/lsgitter/static"
+STATIC_ROOT= "/home/lsgitter/static"
 
 
 
